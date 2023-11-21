@@ -14,7 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![image](https://github.com/johnhcolani/CryptoCurrency/assets/91166301/b5ab0112-61ec-4649-a14c-0fc167c21493)=200x200
+![image](https://github.com/johnhcolani/CryptoCurrency/assets/91166301/b5ab0112-61ec-4649-a14c-0fc167c21493)
 ![image](https://github.com/johnhcolani/CryptoCurrency/assets/91166301/48ca83d9-6979-4759-bb0f-3b99464c4eaa)
 ![image](https://github.com/johnhcolani/CryptoCurrency/assets/91166301/48ca83d9-6979-4759-bb0f-3b99464c4eaa)
 ![image](https://github.com/johnhcolani/CryptoCurrency/assets/91166301/57cac081-8d9f-44da-b671-efb9a4f9940c)
