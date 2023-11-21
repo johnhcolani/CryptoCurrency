@@ -1,0 +1,13 @@
+{
+  "helloWorld": "Hello World!",
+  "exchange": "Exchange BS",
+  "buy": "Buy",
+  "sale": "Sale",
+  "topMarketCap": "Top MarketCaps",
+  "marketView": "Market View",
+  "topGainers": "Top Gainers",
+  "topLosers": "Top Losers",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}

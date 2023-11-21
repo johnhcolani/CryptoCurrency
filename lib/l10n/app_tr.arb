@@ -1,0 +1,13 @@
+{
+  "helloWorld": "Selam Dünya!",
+  "exchange": "Değişme BS",
+  "buy": "satın almak",
+  "sale": "satış",
+  "topMarketCap": "En yüksek piyasa değeri",
+  "topGainers": "En çok kazananlar",
+  "topLosers": "En çok kaybedenler",
+  "marketView": "Pazar rekabeti",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}
